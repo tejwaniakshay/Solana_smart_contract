@@ -1,0 +1,10 @@
+/Users/tejwani/rust/solana_smart_contracts/smart_contract_proj_v1/smart_contract_1/target/sbf-solana-solana/release/deps/liblog-fc3b6c8ed6db430a.rmeta: /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/tejwani/rust/solana_smart_contracts/smart_contract_proj_v1/smart_contract_1/target/sbf-solana-solana/release/deps/liblog-fc3b6c8ed6db430a.rlib: /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/tejwani/rust/solana_smart_contracts/smart_contract_proj_v1/smart_contract_1/target/sbf-solana-solana/release/deps/log-fc3b6c8ed6db430a.d: /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs /Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs
+
+/Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/lib.rs:
+/Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/macros.rs:
+/Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/serde.rs:
+/Users/tejwani/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.22/src/__private_api.rs:
